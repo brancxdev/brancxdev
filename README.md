@@ -66,17 +66,6 @@ Também estudo desenvolvimento web e automação como habilidades complementares
 
 ---
 
-## Atualmente estudando
-
-- Python aplicado à análise e automação de dados;
-- SQL para consultas, organização e exploração de bases;
-- ETL e tratamento de dados;
-- Power BI, Power Query e DAX;
-- Estatística aplicada aos negócios;
-- Storytelling com dados e comunicação de insights;
-- Inteligência artificial aplicada à produtividade e análise.
-
----
 
 ## Objetivo profissional
 
@@ -89,15 +78,15 @@ Meu foco está em projetos que envolvem análise de dados, dashboards, estrutura
 ## Contato
 
 <p>
-  <a href="https://kauanvictor.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://kauanvictor.com.br" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/kauan-victor-silva-6638aa379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/kauan-victor-silva-6638aa379" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:kauanvictortrabalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kauanvictortrabalho@gmail.com" target="_blank">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
